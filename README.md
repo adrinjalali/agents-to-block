@@ -14,4 +14,7 @@ if you'd like to block them or not.
 - `@Siddharth-Latthe-07`: https://github.com/scikit-learn/scikit-learn/issues/29629#issuecomment-2273455721
 - `@DocInspector`: https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aissue%20involves%3ADocInspector%20
 - `@Nazishzaib`: https://github.com/scikit-learn/scikit-learn/issues/26358
-
+- `@rsaketh002`: https://github.com/scikit-learn/scikit-learn/pull/31649
+- `@peelidramuk`: https://github.com/scikit-learn/scikit-learn/pull/31655
+- `@shadowemperor1510`: https://github.com/numpy/numpy/pull/29267
+- `@MauryaGhogare`: https://github.com/scikit-learn/scikit-learn/pull/31602
