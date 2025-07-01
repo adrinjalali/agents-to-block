@@ -23,6 +23,6 @@ if you'd like to block them or not.
 - `@Soumyaatanna`: https://github.com/numpy/numpy/pull/29013
 - `@kumar8074`: https://github.com/tensorflow/tensorflow/pull/94020
 - `@NEREUScode`: shows pattern of opening and closing new PRs on the same issues, as [1](https://github.com/ultralytics/ultralytics/pull/20315), [2](https://github.com/scikit-learn/scikit-learn/pull/31252), [3](https://github.com/scikit-learn/scikit-learn/pull/31253), [4](https://github.com/scikit-learn/scikit-learn/pull/31254), [5](https://github.com/scikit-learn/scikit-learn/pull/31264), [6](https://github.com/pandas-dev/pandas/pull/61391), [7](https://github.com/pandas-dev/pandas/pull/61388), [8](https://github.com/pandas-dev/pandas/pull/61390), [9](https://github.com/pandas-dev/pandas/pull/61391)
-- `@dhyeyinf`: https://github.com/fferrin/free-medium/pull/24
+- `@dhyeyinf`: https://github.com/fferrin/free-medium/pull/24; especially this MCP: https://github.com/dhyeyinf/Github-MCP-Testing/tree/main
 - `@praveenndj`: https://github.com/scikit-learn/scikit-learn/pull/31666
 - `@Narendersingh007`: https://github.com/scikit-learn/scikit-learn/pull/31497
