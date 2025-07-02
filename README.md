@@ -14,4 +14,15 @@ if you'd like to block them or not.
 - `@Siddharth-Latthe-07`: https://github.com/scikit-learn/scikit-learn/issues/29629#issuecomment-2273455721
 - `@DocInspector`: https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aissue%20involves%3ADocInspector%20
 - `@Nazishzaib`: https://github.com/scikit-learn/scikit-learn/issues/26358
-
+- `@rsaketh002`: https://github.com/scikit-learn/scikit-learn/pull/31649
+- `@peelidramuk`: https://github.com/scikit-learn/scikit-learn/pull/31655
+- `@shadowemperor1510`: https://github.com/scikit-learn/scikit-learn/pull/31645
+- `@MauryaGhogare`: https://github.com/scikit-learn/scikit-learn/pull/31602
+- `@agentksimha`: https://github.com/scikit-learn/scikit-learn/pull/31461
+- `@agentksimha1`: https://github.com/scikit-learn/scikit-learn/pull/31468
+- `@Soumyaatanna`: https://github.com/numpy/numpy/pull/29013
+- `@kumar8074`: https://github.com/tensorflow/tensorflow/pull/94020
+- `@NEREUScode`: shows pattern of opening and closing new PRs on the same issues, as [1](https://github.com/ultralytics/ultralytics/pull/20315), [2](https://github.com/scikit-learn/scikit-learn/pull/31252), [3](https://github.com/scikit-learn/scikit-learn/pull/31253), [4](https://github.com/scikit-learn/scikit-learn/pull/31254), [5](https://github.com/scikit-learn/scikit-learn/pull/31264), [6](https://github.com/pandas-dev/pandas/pull/61391), [7](https://github.com/pandas-dev/pandas/pull/61388), [8](https://github.com/pandas-dev/pandas/pull/61390), [9](https://github.com/pandas-dev/pandas/pull/61391)
+- `@dhyeyinf`: https://github.com/fferrin/free-medium/pull/24; especially this MCP: https://github.com/dhyeyinf/Github-MCP
+- `@praveenndj`: https://github.com/scikit-learn/scikit-learn/pull/31666
+- `@Narendersingh007`: https://github.com/scikit-learn/scikit-learn/pull/31497
