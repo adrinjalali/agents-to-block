@@ -26,3 +26,8 @@ if you'd like to block them or not.
 - `@dhyeyinf`: https://github.com/fferrin/free-medium/pull/24; especially this MCP: https://github.com/dhyeyinf/Github-MCP
 - `@praveenndj`: https://github.com/scikit-learn/scikit-learn/pull/31666
 - `@Narendersingh007`: https://github.com/scikit-learn/scikit-learn/pull/31497
+- `@Naveenkm07`: show pattern of opening identical issue across multiple repos, such as 
+  [1](https://github.com/scikit-learn/scikit-learn/issues/31970),
+  [2](https://github.com/microsoft/ML-For-Beginners/issues/840),
+  [3](https://github.com/vinitshahdeo/Hacktoberfest2020/issues/47),
+  [4](https://github.com/dotnet/runtime/issues/118927)
